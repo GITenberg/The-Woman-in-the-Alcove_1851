@@ -1,0 +1,31 @@
+_repo: The-Woman-in-the-Alcove_1851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: I was, perhaps, the plainest girl in the room that night. I was also
+  the happiest - up to one o'clock. Then my whole world crumbled, or, at least, suffered
+  an eclipse. Why and how, I am about to relate.
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Woman in the Alcove
+url: http://www.gutenberg.org/ebooks/1851
