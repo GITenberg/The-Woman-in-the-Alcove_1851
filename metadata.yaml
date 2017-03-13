@@ -1,5 +1,8 @@
 _repo: The-Woman-in-the-Alcove_1851
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Anna Katharine
@@ -14,6 +17,8 @@ creator:
 description: I was, perhaps, the plainest girl in the room that night. I was also
   the happiest - up to one o'clock. Then my whole world crumbled, or, at least, suffered
   an eclipse. Why and how, I am about to relate.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1851#The-Woman-in-the-Alcove
 gutenberg_issued: '1999-08-01'
 gutenberg_type: Text
 identifiers:
